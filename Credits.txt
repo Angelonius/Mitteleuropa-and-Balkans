@@ -1,0 +1,14 @@
+Here are all the sources for the various image files used in this mod along with the.atlas file:
+
+1. Schönbrunn Palace: https://thenounproject.com/icon/3189176/ by Wichai Wi
+2. Sword: https://thenounproject.com/icon/1630431/ by SKETCH ICON, ID
+3. Saber: http://icon-library.com/tags/sabre.html
+4. The game.atlas and game.png files: Red11 from the UnCiv Discord
+5. Montenegrin flag: https://thenounproject.com/search/?q=montenegro&i=3147916 by Vectors Point
+6. Raider: https://thenounproject.com/term/musket/369496/ by Misha Petrishchev
+7. Mounted Hajduk: https://thenounproject.com/search/?q=pickaxe&i=3418447 by yandi kiem lie
+8. Serbian flag: https://thenounproject.com/search/?q=serbia&i=2615373 by Xinh Studio
+9. Hajduk saber: https://thenounproject.com/search/?q=saber&i=3672505 by Jan Wagner
+10. Fitiljaca: https://thenounproject.com/search/?q=musket&i=2349021 by Cédric Villain
+
+Inmperial Knight for v. 1.1: https://www.kissclipart.com/knight-horse-animal-sports-cowboy-reining-0ftcpa/
