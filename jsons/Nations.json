@@ -72,4 +72,33 @@
 			"Vranje","Krusevac","Stari Ras","Rudo Polje","Dmitrovica","Prokuplje","Vucitrn","Debrc","Skopje",
 			"Prilep","Kumanovo","Presevo","Ostrovica","Prijepolje","Brodarevo","Priboj","Kratovo","Hvosno",]
 	},
+	{
+		"name": "Teutonic Order",
+		"leaderName": "Herman von Salza",
+		"adjective": ["Teutons"],
+		"startBias": ["Avoid Desert","Avoid Jungle"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Hail the Hochmeister of the Order of Brothers of the German House of Saint Mary in Jerusalem! We are the Teutonic Order, an order of German crusaders. As such, we are tasked to defend the Holy Land and bring the Gospel to the peoples of Lithuania. If anyone resists, we fight back! In 1192, the order was founded in Acre to protect that vital port. With our order's defeat, we went from Transylvania in 1211 to Prussia in 1230. Now, we fight for the Gospel against the heathens!",
+		"startIntroPart2": "The Teutonic Order needs your leadership, herr Hochmeister! Your people look to you to bring the empire back to life once more. Will you accept the challenge? Will you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "Do not fret, this war is ordained by God.",
+		"attacked": "A terrible misfortune will strike you, heretic!",
+		"defeated": "If this is God's will, then I bitterly accept it...",
+		"introduction": "Greetings stranger, you have met the pious Teutonic Order.",
+		
+		"neutralHello": "Are you here to pray?",
+		"hateHello": "Your actions are heretical, be swift with what you have to say.",
+		
+		"tradeRequest": "The Order is willing to permiss this trade.",
+				
+		"outerColor": [0,0,0],
+		"innerColor": [255,255,255],
+		"uniqueName": "German Zeal",
+		"unique": ["-[25]% [Land] unit maintenance costs", "Double quantity of [Horses] produced", "Units fight as though they were at full strength even when damaged"],
+		"cities": ["Mariensburg","Konigsberg","Thorn","Elbing","Rehden","Christburg","Balga","Braunsberg","Bartenstein","Allenburg",
+			"Heilsberg","Memel","Goldingen","Mitau","Kokenhusen","Kreuzburg","Riga","Lemsal","Wenden","Rositten",
+			"Lunden","Fellin","Dorpat","Reval","Wesenberg","Arensburg","Kulm","Acker","Dyneburg","Windau",
+			"Parnau","Narva","Venedig","Kulmerlandstadt","Grunfeld","Tannenberg","Tauroggen","Georgenburg","Palangen","Damietta"]
+	},
 ]
