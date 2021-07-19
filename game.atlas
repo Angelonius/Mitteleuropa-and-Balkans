@@ -4,6 +4,13 @@ size: 2048,256
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
+BuildingIcons/Ordensburg
+  rotate: false
+  xy: 1418, 102
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Austria
   rotate: false
   xy: 1214, 102
@@ -20,7 +27,14 @@ NationIcons/Montenegro
   index: -1
 NationIcons/Serbia
   rotate: false
-  xy: 1418, 102
+  xy: 1520, 102
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Teutonic Order
+  rotate: false
+  xy: 1724, 102
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -65,5 +79,12 @@ UnitIcons/Royal Hussar
   xy: 1012, 2
   size: 200, 200
   orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Teutonic Knight
+  rotate: false
+  xy: 1622, 102
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
