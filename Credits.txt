@@ -10,5 +10,6 @@ Here are all the sources for the various image files used in this mod along with
 8. Serbian flag: https://thenounproject.com/search/?q=serbia&i=2615373 by Xinh Studio
 9. Hajduk saber: https://thenounproject.com/search/?q=saber&i=3672505 by Jan Wagner
 10. Fitiljaca: https://thenounproject.com/search/?q=musket&i=2349021 by Cédric Villain
+11. Nirekin's mod: https://github.com/Nirekin-sys/Unciv-Teutons
 
 Inmperial Knight for v. 1.1: https://www.kissclipart.com/knight-horse-animal-sports-cowboy-reining-0ftcpa/
