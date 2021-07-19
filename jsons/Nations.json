@@ -95,7 +95,7 @@
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "German Zeal",
-		"unique": ["-[25]% [Land] unit maintenance costs", "Double quantity of [Horses] produced", "Units fight as though they were at full strength even when damaged"],
+		"uniques": ["-[25]% [Land] unit maintenance costs", "Double quantity of [Horses] produced", "Units fight as though they were at full strength even when damaged"],
 		"cities": ["Mariensburg","Konigsberg","Thorn","Elbing","Rehden","Christburg","Balga","Braunsberg","Bartenstein","Allenburg",
 			"Heilsberg","Memel","Goldingen","Mitau","Kokenhusen","Kreuzburg","Riga","Lemsal","Wenden","Rositten",
 			"Lunden","Fellin","Dorpat","Reval","Wesenberg","Arensburg","Kulm","Acker","Dyneburg","Windau",
