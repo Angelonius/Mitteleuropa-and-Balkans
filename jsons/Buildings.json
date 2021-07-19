@@ -1,0 +1,13 @@
+[
+	{
+		"name": "Ordensburg",
+		"replaces": "Castle",
+		"cost": 125,
+		"uniqueTo": "Teutonic Order",
+		"cityStrength": 15,
+		"cityHealth": 90,
+		"hurryCostModifier": 50,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+	},
+]
