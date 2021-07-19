@@ -93,4 +93,19 @@
 		"promotions": ["Logistics"],
 		"attackSound": "shot"
 	},
+	{
+		"name": "Teutonic Knight",
+		"replaces": "Knight",
+		"uniqueTo": "Teutonic Order"
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 28,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","Founds a new city"],
+                "promotions": ["Great Generals II","Quick Study"],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
+	},
 ]
