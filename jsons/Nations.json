@@ -127,4 +127,26 @@
 			"Šiauliai","Wałbrzych","Zielona Góra","Włocławek","Vilnius","Kaunas","Polotsk","Minsk","Voruta","Klaipeda",
 			"Vitebsk","Trakai","Mstsislau","Navahrudak","Raseiniai","Kernave","Siauliai","Panevezys","Alytus"]
 	},
+	{
+		"name": "Bohemia",
+		"leaderName": "Ottokar I",
+		"adjective": ["Bohemian"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "All hail king Ottokar I, king-elector of Bohemia! Under your rule, Bohemia had finally become a kingdom under the Holy Roman Empire. Bohemia plays a vital role as the head of the empire's secular electors.",
+		"startIntroPart2": "Great king Ottokar, the kingdom of Bohemia wants your leadership. Will you make Bohemia into a European power? Will you accept the challenge? Can you build a civilization that will stand the test of time?",
+		"declaringWar": "War is upon you!",
+		"attacked": "You will regret this!",
+		"defeated": "You have won and I am your subject.",
+		"introduction": "Welcome to Lands of the Crown of St. Wenceslaus.",
+		"neutralHello": "Dobry den.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "I am ready for this deal.",
+		"outerColor": [215,20,26],
+		"innerColor": [0,0,0],
+		"uniqueName": "The Kingdom of the Elector",
+		"uniques": ["-[35]% [Land] unit maintenance costs","+[1] Movement for all [Mounted] units"],
+		"cities": ["Prague","Brno","Ostrava","Plzen","Liberec","Olomouc","České Budějovice","Hradec Králové","Ústí nad Labem","Pardubice","Zlín","Havířov","Kladno","Most","Opava","Frýdek-Místek","Jihlava","Karviná","Teplice","Chomutov","Karlovy Vary","Děčín","Jablonec nad Nisou","Mladá Boleslav","Prostějov","Přerov","Třinec"]
+	},
 ]
