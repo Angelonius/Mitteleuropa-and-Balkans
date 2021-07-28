@@ -118,7 +118,7 @@
 		"hateHello": "What do you want?",
 		"tradeRequest": "How's this?",
 		"outerColor": [87,29,77],
-		"innerColor": [0,0,0],
+		"innerColor": [255,255,255],
 		"uniqueName": "The Dual Realm",
 		"uniques": ["Culture cost of adopting new Policies reduced by [15]%","+[10]% Strength for all [Mounted] units"],
 		"cities": ["Warsaw","Kraków","Łódź","Wroclaw","Poznań","Gdansk","Szczecin","Bydgoszcz","Lublin","Kaunas",
