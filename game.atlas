@@ -6,42 +6,49 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Ordensburg
   rotate: false
-  xy: 944, 312
+  xy: 1044, 96
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Austria
   rotate: false
-  xy: 836, 312
+  xy: 1044, 312
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Bohemia
+  rotate: false
+  xy: 1044, 204
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Montenegro
   rotate: false
-  xy: 836, 204
+  xy: 1152, 312
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Poland-Lithuania
   rotate: false
-  xy: 836, 96
+  xy: 1152, 204
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Serbia
   rotate: false
-  xy: 944, 204
+  xy: 1260, 312
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Teutonic Order
   rotate: false
-  xy: 944, 96
+  xy: 1260, 204
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -88,23 +95,37 @@ UnitIcons/Raider
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Royal Hussar
+UnitIcons/Royal Guard
   rotate: false
   xy: 628, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+UnitIcons/Royal Hussar
+  rotate: false
+  xy: 628, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 UnitIcons/Teutonic Knight
   rotate: false
-  xy: 1052, 312
+  xy: 1152, 96
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Warwagon
+  rotate: false
+  xy: 836, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 UnitIcons/Winged Hussar
   rotate: false
-  xy: 628, 4
+  xy: 836, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
