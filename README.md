@@ -3,4 +3,4 @@ This is a compilation mod for Project Austria, Project Montenegro and Project Se
 
 v1.1: I've added in an update to Nirekin-sys's Teutonic Order mod.
 
-v.1.2: Added in Poland-Lithuania.
+v.1.2: Added in Poland-Lithuania and Bohemia.
