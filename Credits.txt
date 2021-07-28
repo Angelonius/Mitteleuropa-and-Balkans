@@ -11,5 +11,11 @@ Here are all the sources for the various image files used in this mod along with
 9. Hajduk saber: https://thenounproject.com/search/?q=saber&i=3672505 by Jan Wagner
 10. Fitiljaca: https://thenounproject.com/search/?q=musket&i=2349021 by Cédric Villain
 11. Nirekin's mod: https://github.com/Nirekin-sys/Unciv-Teutons
+12. Poland and Lithuania from the REKMOD: https://github.com/ravignir/RekMOD
+13. Polish-Lithuanian flag:
+13.1: From REKMOD: https://github.com/ravignir/RekMOD'
+13.2: The shield: https://www.wikiwand.com/en/Escutcheon_(heraldry)
+14: Lipka Tatar: https://thenounproject.com/search/?q=lance&i=1625950 by 1516 
+15: Winged Hussar: https://thenounproject.com/search/?q=hussar&i=124592 by Robert Bjurshagen, SE 
 
 Inmperial Knight for v. 1.1: https://www.kissclipart.com/knight-horse-animal-sports-cowboy-reining-0ftcpa/
