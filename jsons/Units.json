@@ -141,4 +141,31 @@
 	        "promotions": ["Formation I","Charge"],
 		"attackSound": "horse"
 	},
+        {
+		"name": "Warwagon",
+		"unitType": "Melee",
+		"replaces": "Musketman",
+		"uniqueTo": "Bohemia",
+		"movement": 3,
+		"strength": 28,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"uniques": ["+[20]% Strength when defending","Rough terrain penalty","+[5]% Strength vs [Mounted]"],
+		"attackSound": "shot"
+	},
+        {
+		"name": "Royal Guard",
+		"unitType": "Mounted",
+	        "replaces": "Knight",
+		"uniqueTo": "Bohemia",
+		"movement": 4,
+		"strength": 25,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","+[10]% Strength when defending","+[25]% Strength vs [Melee]"],
+		"attackSound": "horse"
+	},
 ]
