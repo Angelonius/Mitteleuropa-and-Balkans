@@ -144,7 +144,7 @@
 		"hateHello": "What do you want?",
 		"tradeRequest": "I am ready for this deal.",
 		"outerColor": [215,20,26],
-		"innerColor": [0,0,0],
+		"innerColor": [255,255,255],
 		"uniqueName": "The Kingdom of the Elector",
 		"uniques": ["-[35]% [Land] unit maintenance costs","+[1] Movement for all [Mounted] units"],
 		"cities": ["Prague","Brno","Ostrava","Plzen","Liberec","Olomouc","České Budějovice","Hradec Králové","Ústí nad Labem","Pardubice","Zlín","Havířov","Kladno","Most","Opava","Frýdek-Místek","Jihlava","Karviná","Teplice","Chomutov","Karlovy Vary","Děčín","Jablonec nad Nisou","Mladá Boleslav","Prostějov","Přerov","Třinec"]
