@@ -120,7 +120,7 @@
 		"outerColor": [241,3,0],
 		"innerColor": [87,29,77],
 		"uniqueName": "The Dual Realm",
-		"uniques": ["Culture cost of adopting new Policies reduced by [15]%","+[5]% Strength for all [Mounted] units"],
+		"uniques": ["Culture cost of adopting new Policies reduced by [15]%","+[10]% Strength for all [Mounted] units"],
 		"cities": ["Warsaw","Kraków","Łódź","Wroclaw","Poznań","Gdansk","Szczecin","Bydgoszcz","Lublin","Kaunas",
 			"Katowice","Białystok","Gdynia","Świdnica","Częstochowa","Radom","Toruń","Kielce","Gliwice","Klaipėda",
 			"Bytom","Olsztyn","Rzeszów","Ruda Śląska","Bielsko-Biala","Rybnik","Płock","Elbląg","Gorzów Wielkopolski","Opole",
