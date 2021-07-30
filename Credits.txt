@@ -1,9 +1,9 @@
 Here are all the sources for the various image files used in this mod along with the.atlas file:
 
 1. Schönbrunn Palace: https://thenounproject.com/icon/3189176/ by Wichai Wi
-2. Sword: https://thenounproject.com/icon/1630431/ by SKETCH ICON, ID
-3. Saber: http://icon-library.com/tags/sabre.html
-4. The game.atlas and game.png files: Red11 from the UnCiv Discord
+2. Sword (prior to v.1.1): https://thenounproject.com/icon/1630431/ by SKETCH ICON, ID
+3. Saber (prior to v.1.6): https://icon-library.com/png/181300.html
+4. The game.atlas and game.png files prior to v.1.2: Red11 from the UnCiv Discord
 5. Montenegrin flag: https://thenounproject.com/search/?q=montenegro&i=3147916 by Vectors Point
 6. Raider: https://thenounproject.com/term/musket/369496/ by Misha Petrishchev
 7. Mounted Hajduk: https://thenounproject.com/search/?q=pickaxe&i=3418447 by yandi kiem lie
@@ -13,12 +13,13 @@ Here are all the sources for the various image files used in this mod along with
 11. Nirekin's mod: https://github.com/Nirekin-sys/Unciv-Teutons
 12. Poland and Lithuania from the REKMOD: https://github.com/ravignir/RekMOD
 13. Polish-Lithuanian flag:
-13.1: From REKMOD: https://github.com/ravignir/RekMOD'
-13.2: The shield: https://www.wikiwand.com/en/Escutcheon_(heraldry)
-14: Lipka Tatar: https://thenounproject.com/search/?q=lance&i=1625950 by 1516 
-15: Winged Hussar: https://thenounproject.com/search/?q=hussar&i=124592 by Robert Bjurshagen, SE 
-16: Bohemian flag: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Small_coat_of_arms_of_the_Czech_Republic.svg/800px-Small_coat_of_arms_of_the_Czech_Republic.svg.png
-17: Warwagon: https://thenounproject.com/search/?q=wagon&i=313446 by lastspark, RU 
-18: Royal Guard: https://thenounproject.com/search/?q=knight&i=2198452 by mynamepong, TH 
+13.1. From REKMOD: https://github.com/ravignir/RekMOD'
+13.2. The shield: https://www.wikiwand.com/en/Escutcheon_(heraldry)
+14. Lipka Tatar: https://thenounproject.com/search/?q=lance&i=1625950 by 1516 
+15. Winged Hussar: https://thenounproject.com/search/?q=hussar&i=124592 by Robert Bjurshagen, SE 
+16. Bohemian flag: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Small_coat_of_arms_of_the_Czech_Republic.svg/800px-Small_coat_of_arms_of_the_Czech_Republic.svg.png
+17. Warwagon: https://thenounproject.com/search/?q=wagon&i=313446 by lastspark, RU 
+18. Royal Guard: https://thenounproject.com/search/?q=knight&i=2198452 by mynamepong, TH 
+19. Machine gun: https://thenounproject.com/search/?q=machine+gun&i=3998850 by Izwar Muis, ID 
 
 Inmperial Knight for v. 1.1: https://www.kissclipart.com/knight-horse-animal-sports-cowboy-reining-0ftcpa/
