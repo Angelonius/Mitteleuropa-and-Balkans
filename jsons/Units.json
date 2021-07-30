@@ -16,19 +16,19 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Royal Hussar",
-		"replaces": "Lancer",
-        "uniqueTo": "Austria",
-		"unitType": "Mounted",
-		"movement": 5,
-		"strength": 25,
-		"cost": 185,
-		"requiredTech": "Metallurgy",
-		"requiredResource": "Horses",
-		"hurryCostModifier": 20,
-		"uniques": ["Can move after attacking","No defensive terrain bonus"],
-		"promotions": ["Formation I"],
-		"attackSound": "horse"
+		"name": "Bosniaken Machinegunner",
+		"replaces": "Machine Gun",
+		"uniqueTo": "Austria",
+		"unitType": "Ranged",
+		"range": 1,
+		"movement": 2,
+		"strength": 60,
+		"rangedStrength": 60,
+		"cost": 350,
+		"requiredTech": "Ballistics",
+		"uniques": ["Can move after attacking","Can move immediately once bought"],
+		"promotions": ["Extended Range"],
+		"attackSound": "machinegun"
 	},
   {
 		"name": "Raider",
