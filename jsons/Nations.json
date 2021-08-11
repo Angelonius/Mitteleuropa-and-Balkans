@@ -67,9 +67,9 @@
 		"innerColor": [0,0,0],
 		"unique": "Serbian Glory",
 		"uniques": ["+1 Sight for all land military units","-[25]% [Land] unit maintenance costs","Melee units pay no movement cost to pillage"],
-		"cities": ["Beograd","Bor","Negotin","Pozarevac","Zajecar","Uzice","Leskovac","Valjevo","Pristina","Djakovica",
+		"cities": ["Stari Ras","Bor","Negotin","Pozarevac","Zajecar","Uzice","Leskovac","Valjevo","Pristina","Djakovica",
 			"Pec","Prizren","Mitrovica","Morava","Sabac","Cacak","Nis","Pirot","Smederevo","Jagodna",
-			"Vranje","Krusevac","Stari Ras","Rudo Polje","Dmitrovica","Prokuplje","Vucitrn","Debrc","Skopje",
+			"Vranje","Krusevac","Beograd","Rudo Polje","Dmitrovica","Prokuplje","Vucitrn","Debrc","Skopje",
 			"Prilep","Kumanovo","Presevo","Ostrovica","Prijepolje","Brodarevo","Priboj","Kratovo","Hvosno",]
 	},
 	{
