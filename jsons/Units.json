@@ -165,7 +165,7 @@
 		"cost": 120,
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","+[10]% Strength when defending","+[25]% Strength vs [Melee]"],
+		"uniques": ["Can move after attacking","+[10]% Strength when defending","+[25]% Strength vs [Sword]"],
 		"attackSound": "horse"
 	},
 ]
