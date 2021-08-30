@@ -9,4 +9,4 @@ v.1.3: Replaced the Royal Hussar with the Bosniaken Machinegunner.
 
 v.1.4: Updated the Bosniaken Machinegunner, Raider, Hajduk, Fitiljaca, Warwagon and Royal Guard in accord to the current updates to the base game.
 
-v.1.5:Updated the Austrian coat of arms.
+v.1.5: Updated the Austrian coat of arms.
