@@ -19,10 +19,10 @@
 		"innerColor": [0,0,0],
 		"unique": "Viribus Unitis",
 		"uniques": ["+[2] Movement for all [Mounted] units", "Double quantity of [Horses] produced", "+50% Production towards any buildings that already exist in the Capital","-[50]% [Land] unit maintenance costs"],
-		"cities": ["Wien","Salzburg","Graz","Eisenstadt","Sankt Pölten","Klagenfurt","Linz","Trent","Venedig","Bregenz",
-			"Bozen","Budapescht","Prag","Zagreb","Laibach","Pressburg","Lemberg","Klausenburg","Mailand","Triest",
-			"Tschernowitz","Zadar","Görz","Gradisca","Rovinj","Brünn","Troppau","Sankt Veit am Flaum","Sarajevo",
-			"Temeschwar","Florenz","Krakau","Nanzig","Modena","Parma","Piacenza","Guastalla","Zator",]
+		"cities": ["Wien","Salzburg","Graz","Eisenstadt","Sankt Pölten","Klagenfurt","Linz","Trent","Venezia","Bregenz",
+			"Bozen","Budapest","Praha","Zagreb","Ljubljana","Pressburg","Lviv","Cluj-Napoca","Milano","Trieste",
+			"Chernivtsi","Zadar","Görz","Gradisca","Rovinj","Brno","Opava","Rijeka","Sarajevo",
+			"Timișoara","Firenze","Kraków","Nancy","Modena","Parma","Piacenza","Guastalla","Zator",]
 	},
   {
 		"name": "Montenegro",
