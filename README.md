@@ -11,4 +11,4 @@ v.1.4: Updated the Bosniaken Machinegunner, Raider, Hajduk, Fitiljaca, Warwagon 
 
 v.1.5: Updated the Austrian flag, used the local names for the various cities of Austria.
 
-v.1.6: Changed the name of the country of Austria to the United States of Greater Austria.
+v.1.6: Changed the name of Austria to the United States of Greater Austria.
