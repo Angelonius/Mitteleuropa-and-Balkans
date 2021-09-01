@@ -3,7 +3,7 @@
     {
 		"name": "Imperial Knight",
         "replaces": "Knight",
-        "uniqueTo": "Austria",
+        "uniqueTo": "United States of Greater Austria",
 		"unitType": "Mounted",
 		"movement": 5,
 		"strength": 30,
@@ -18,7 +18,7 @@
 	{
 		"name": "Bosniaken Machinegunner",
 		"replaces": "Machine Gun",
-		"uniqueTo": "Austria",
+		"uniqueTo": "United States of Greater Austria",
 		"unitType": "Ranged Gunpowder",
 		"range": 1,
 		"movement": 2,
