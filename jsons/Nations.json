@@ -1,9 +1,9 @@
 
 [
   {
-		"name": "Austria",
+		"name": "United States of Greater Austria",
 		"leaderName": "Charles I",
-		"adjective": ["Austrian"],
+		"adjective": ["Austrian Imperial"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "By the Grace of God, all hail Kaiser Karl I, emperor of Austria! Great and holy Austria is the legal descendant of the Roman Empire through the Holy Roman Empire. As such, Austria holds preeminence upon the rulers of Christendom. Austria holds dominion over Hungary, Bohemia, the Triune Kingdom of Croatia, Bosnia, Transylvania, southern Poland and northern Italy. Despite multiple wars, Austria endures! As long as Austria stands, Christendom lives!",
@@ -23,7 +23,7 @@
 			"Bozen","Budapest","Praha","Zagreb","Ljubljana","Pressburg","Lviv","Cluj-Napoca","Milano","Trieste",
 			"Chernivtsi","Zadar","Görz","Gradisca","Rovinj","Brno","Opava","Rijeka","Sarajevo",
 			"Timișoara","Firenze","Kraków","Nancy","Modena","Parma","Piacenza","Guastalla","Zator",]
-	},
+},
   {
 		"name": "Montenegro",
 		"leaderName": "Danilo I",
