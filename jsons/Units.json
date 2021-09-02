@@ -1,9 +1,9 @@
 
 [
     {
-		"name": "Imperial Knight",
-        "replaces": "Knight",
-        "uniqueTo": "United States of Greater Austria",
+	"name": "Imperial Knight",
+	"replaces": "Knight",
+        "uniqueTo": "Holy Roman Empire",
 		"unitType": "Mounted",
 		"movement": 5,
 		"strength": 30,
@@ -18,7 +18,7 @@
 	{
 		"name": "Bosniaken Machinegunner",
 		"replaces": "Machine Gun",
-		"uniqueTo": "United States of Greater Austria",
+		"uniqueTo": "Holy Roman Empire",
 		"unitType": "Ranged Gunpowder",
 		"range": 1,
 		"movement": 2,
