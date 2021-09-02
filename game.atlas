@@ -6,47 +6,47 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Ordensburg
   rotate: false
-  xy: 1044, 96
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Austria
-  rotate: false
-  xy: 1044, 312
+  xy: 1152, 312
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Bohemia
   rotate: false
-  xy: 1044, 204
+  xy: 1044, 312
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Montenegro
   rotate: false
-  xy: 1152, 312
+  xy: 1044, 204
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Poland-Lithuania
   rotate: false
-  xy: 1152, 204
+  xy: 1044, 96
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Serbia
   rotate: false
-  xy: 1260, 312
+  xy: 1152, 204
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Teutonic Order
+  rotate: false
+  xy: 1152, 96
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/United States of Greater Austria
   rotate: false
   xy: 1260, 204
   size: 100, 100
@@ -111,7 +111,7 @@ UnitIcons/Royal Guard
   index: -1
 UnitIcons/Teutonic Knight
   rotate: false
-  xy: 1152, 96
+  xy: 1260, 312
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
