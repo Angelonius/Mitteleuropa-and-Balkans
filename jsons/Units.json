@@ -16,19 +16,19 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Bosniaken Machinegunner",
-		"replaces": "Machine Gun",
+		"name": "Arbalestier",
+		"replaces": "Crossbowman",
 		"uniqueTo": "Holy Roman Empire",
-		"unitType": "Ranged Gunpowder",
-		"range": 1,
-		"movement": 2,
-		"strength": 60,
-		"rangedStrength": 60,
-		"cost": 350,
-		"requiredTech": "Ballistics",
+		"unitType": "Archery",
+		"range": 2,
+		"movement": 3,
+		"strength": 15,
+		"rangedStrength": 20,
+		"cost": 120,
+		"requiredTech": "Machinery",
 		"uniques": ["Can move after attacking","Can move immediately once bought"],
 		"promotions": ["Extended Range"],
-		"attackSound": "machinegun"
+		"attackSound": "arrow"
 	},
   {
 		"name": "Raider",
