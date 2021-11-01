@@ -43,7 +43,7 @@
 		"innerColor": [255,255,255],
 	        "favoredReligion": "Christianity",
 		"uniqueName": "Montenegrin Tribes",
-		"uniques": ["+1 Sight for all land military units","-[25]% [Land] unit maintenance costs","Units ignore terrain costs when moving into any tile with Hills"],
+		"uniques": ["+1 Sight for all land military units","-[25]% maintenance costs for [Land] units","Units ignore terrain costs when moving into any tile with Hills"],
 		"cities": ["Cetinje","Pljevlja","Pluzhine","Zhabljak","Mojkovac","Bijelo Polje","Berane","Petnjica","Rozhaje","Shavnik",
 			"Nikshitch","Kolashin","Andrijevica","Plav","Gusinje","Kotor","Gradina","Podgorica","Tuzi","Herceg Novi",
 			"Tivat","Budva","Bar","Ulcinj","Vranjina",]
@@ -67,7 +67,7 @@
 		"innerColor": [0,0,0],
 	        "favoredReligion": "Christianity",
 		"uniqueName": "Serbian Glory",
-		"uniques": ["+1 Sight for all land military units","-[25]% [Land] unit maintenance costs","Melee units pay no movement cost to pillage"],
+		"uniques": ["+1 Sight for all land military units","-[25]% maintenance costs for [Land] units","Melee units pay no movement cost to pillage"],
 		"cities": ["Stari Ras","Bor","Negotin","Pozarevac","Zajecar","Uzice","Leskovac","Valjevo","Pristina","Djakovica",
 			"Pec","Prizren","Mitrovica","Morava","Sabac","Cacak","Nis","Pirot","Smederevo","Jagodna",
 			"Vranje","Krusevac","Beograd","Rudo Polje","Dmitrovica","Prokuplje","Vucitrn","Debrc","Skopje",
@@ -97,7 +97,7 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "German Zeal",
-		"uniques": ["-[25]% [Land] unit maintenance costs", "Double quantity of [Horses] produced", "Units fight as though they were at full strength even when damaged"],
+		"uniques": ["-[25]% maintenance costs for [Land] units", "Double quantity of [Horses] produced", "Units fight as though they were at full strength even when damaged"],
 		"cities": ["Mariensburg","Konigsberg","Thorn","Elbing","Rehden","Christburg","Balga","Braunsberg","Bartenstein","Allenburg",
 			"Heilsberg","Memel","Goldingen","Mitau","Kokenhusen","Kreuzburg","Riga","Lemsal","Wenden","Rositten",
 			"Lunden","Fellin","Dorpat","Reval","Wesenberg","Arensburg","Kulm","Acker","Dyneburg","Windau",
@@ -150,7 +150,7 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Kingdom of the Elector",
-		"uniques": ["-[35]% [Land] unit maintenance costs","+[1] Movement for all [Mounted] units"],
+		"uniques": ["-[35]% maintenance costs for [Land] units","+[1] Movement for all [Mounted] units"],
 		"cities": ["Prague","Brno","Ostrava","Plzen","Liberec","Olomouc","České Budějovice","Hradec Králové","Ústí nad Labem","Pardubice","Zlín","Havířov","Kladno","Most","Opava","Frýdek-Místek","Jihlava","Karviná","Teplice","Chomutov","Karlovy Vary","Děčín","Jablonec nad Nisou","Mladá Boleslav","Prostějov","Přerov","Třinec"]
 	},
 ]
