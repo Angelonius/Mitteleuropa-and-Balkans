@@ -18,3 +18,5 @@ v.1.7: Renamed United States of Greater Austria to the Holy Roman Empire due to 
 v.1.8: Changed the Bosniaken Machinegunner into Arbalestier, removed the "No defensive terrain bonus" on the Imperial Knight.
 
 v.1.9: Added in the "Favored Religion" mechanic in line with the latest update to the base game.
+
+v.1.10: Updated the Land Unit maintenance values to make it work with the base game.
