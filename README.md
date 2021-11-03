@@ -20,3 +20,5 @@ v.1.8: Changed the Bosniaken Machinegunner into Arbalestier, removed the "No def
 v.1.9: Added in the "Favored Religion" mechanic in line with the latest update to the base game.
 
 v.1.10: Updated the Land Unit maintenance values to make it work with the base game.
+
+v.1.11: Updated the damage values.
