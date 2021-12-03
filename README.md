@@ -22,3 +22,5 @@ v.1.9: Added in the "Favored Religion" mechanic in line with the latest update t
 v.1.10: Updated the Land Unit maintenance values to make it work with the base game.
 
 v.1.11: Updated the damage values.
+
+v.1.12: Updated the national uniques of the HRE and Bohemia.
