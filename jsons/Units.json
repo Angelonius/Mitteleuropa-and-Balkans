@@ -10,7 +10,7 @@
 		"cost": 120,
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","[+50]% Strength <vs [Mounted]>"],
+		"uniques": ["Can move after attacking","[+50]% Strength <vs [Mounted] units>"],
 		"promotions": ["Charge","Great Generals II","Quick Study"],
         "hurryCostModifier": 20,
 		"attackSound": "horse"
@@ -152,7 +152,7 @@
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"uniques": ["[+20]% Strength <when defending>","Rough terrain penalty","[+5]% Strength <vs [Mounted]>"],
+		"uniques": ["[+20]% Strength <when defending>","Rough terrain penalty","[+5]% Strength <vs [Mounted] units>"],
 		"attackSound": "shot"
 	},
         {
@@ -165,7 +165,7 @@
 		"cost": 120,
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","[+10]% Strength <when defending>","[+25]% Strength <vs [Sword]>"],
+		"uniques": ["Can move after attacking","[+10]% Strength <when defending>","[+25]% Strength <vs [Sword] units>"],
 		"attackSound": "horse"
 	},
 ]
