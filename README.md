@@ -24,3 +24,5 @@ v.1.10: Updated the Land Unit maintenance values to make it work with the base g
 v.1.11: Updated the damage values.
 
 v.1.12: Updated the national uniques of the HRE and Bohemia.
+
+v.1.13: Updated the Imperial Knight, Warwagon and Royal Guard.
