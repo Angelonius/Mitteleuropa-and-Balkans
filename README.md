@@ -26,3 +26,5 @@ v.1.11: Updated the damage values.
 v.1.12: Updated the national uniques of the HRE and Bohemia.
 
 v.1.13: Updated the Imperial Knight, Warwagon and Royal Guard. Also updated all nations within.
+
+v.1.14: Updated Poland-Lithuania's unique.
