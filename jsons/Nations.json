@@ -67,7 +67,7 @@
 		"innerColor": [0,0,0],
 	        "favoredReligion": "Christianity",
 		"uniqueName": "Serbian Glory",
-		"uniques": ["[+1] Sight <for [{Military} {Land}] units>","[-25]% maintenance costs <for [Land] units>","Melee units pay no movement cost to pillage"],
+		"uniques": ["[+1] Sight <for [{Military} {Land}] units>","[-25]% maintenance costs <for [Land] units>","No movement cost to pillage <for [Melee] units>"],
 		"cities": ["Stari Ras","Bor","Negotin","Pozarevac","Zajecar","Uzice","Leskovac","Valjevo","Pristina","Djakovica",
 			"Pec","Prizren","Mitrovica","Morava","Sabac","Cacak","Nis","Pirot","Smederevo","Jagodna",
 			"Vranje","Krusevac","Beograd","Rudo Polje","Dmitrovica","Prokuplje","Vucitrn","Debrc","Skopje",
