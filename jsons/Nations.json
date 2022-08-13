@@ -97,7 +97,7 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "German Zeal",
-		"uniques": ["[-25]% maintenance costs <for [Land] units>", "Double quantity of [Horses] produced", "Units fight as though they were at full strength even when damaged"],
+		"uniques": ["[-25]% maintenance costs <for [Land] units>", "Double quantity of [Horses] produced", "Damage is ignored when determining unit Strength <for [non-air] units>"],
 		"cities": ["Mariensburg","Konigsberg","Thorn","Elbing","Rehden","Christburg","Balga","Braunsberg","Bartenstein","Allenburg",
 			"Heilsberg","Memel","Goldingen","Mitau","Kokenhusen","Kreuzburg","Riga","Lemsal","Wenden","Rositten",
 			"Lunden","Fellin","Dorpat","Reval","Wesenberg","Arensburg","Kulm","Acker","Dyneburg","Windau",
