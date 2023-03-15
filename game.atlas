@@ -1,0 +1,153 @@
+
+game.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Ordensburg
+  rotate: false
+  xy: 1044, 178
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Bohemia
+  rotate: false
+  xy: 1044, 394
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Holy Roman Empire
+  rotate: false
+  xy: 1044, 286
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Montenegro
+  rotate: false
+  xy: 1152, 394
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Poland-Lithuania
+  rotate: false
+  xy: 1152, 286
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Serbia
+  rotate: false
+  xy: 1260, 394
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Teutonic Order
+  rotate: false
+  xy: 1260, 286
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Imperial Knight
+  rotate: false
+  xy: 4, 4
+  size: 77, 74
+  orig: 77, 74
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Royal Guard
+  rotate: false
+  xy: 4, 4
+  size: 77, 74
+  orig: 77, 74
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Teutonic Knight
+  rotate: false
+  xy: 4, 4
+  size: 77, 74
+  orig: 77, 74
+  offset: 0, 0
+  index: -1
+UnitIcons/Arbalestier
+  rotate: false
+  xy: 4, 294
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Fitiljaca
+  rotate: false
+  xy: 4, 86
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Hajduk
+  rotate: false
+  xy: 212, 294
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Imperial Knight
+  rotate: false
+  xy: 212, 86
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Lipka Tatar
+  rotate: false
+  xy: 420, 294
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Mounted Hajduk
+  rotate: false
+  xy: 420, 86
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Raider
+  rotate: false
+  xy: 628, 294
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Royal Guard
+  rotate: false
+  xy: 628, 86
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Teutonic Knight
+  rotate: false
+  xy: 1152, 178
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Warwagon
+  rotate: false
+  xy: 836, 294
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Winged Hussar
+  rotate: false
+  xy: 836, 86
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
