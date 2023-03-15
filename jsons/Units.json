@@ -55,9 +55,10 @@
 		"cost": 185,
 		"requiredTech": "Metallurgy",
 		"obsoleteTech": "Combined Arms",
+		"requiredResource": "Horses",
 		"upgradesTo": "Anti-Tank Gun",
 		"promotions": ["Formation I","Logistics"],
-		"uniques": ["Can move after attacking","No defensive terrain bonus","Consumes [1] [Horses]","No movement cost to pillage"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","No movement cost to pillage"],
 		"promotions": ["Great Generals II"],
 		"attackSound": "horse"
 	},
@@ -88,8 +89,9 @@
 		"cost": 150,
 		"requiredTech": "Gunpowder",
 		"obsoleteTech": "Replaceable Parts",
+		"requiredResource": "Horses",
 		"upgradesTo": "Great War Infantry",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","Consumes [1] [Horses]"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
 		"promotions": ["Logistics"],
 		"attackSound": "shot"
 	},
