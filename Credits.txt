@@ -26,5 +26,6 @@ Here are all the sources for the various image files used in this mod along with
 20.2. The image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Imperial_Coat_of_Arms_of_the_Empire_of_Austria_%281815%29.svg/800px-Imperial_Coat_of_Arms_of_the_Empire_of_Austria_%281815%29.svg.png
 20.3 Turning the image into pure black-and-white: https://online-photo-converter.com/black-and-white-image
 21. Arbalestier: https://thenounproject.com/search/?q=crossbow&i=4168125 By Eucalyp
+22. Imperial Knight, Teutonic Knight and Royal Guard sprites: https://github.com/letstalkaboutdune
 
 Inmperial Knight for v. 1.1: https://www.kissclipart.com/knight-horse-animal-sports-cowboy-reining-0ftcpa/
