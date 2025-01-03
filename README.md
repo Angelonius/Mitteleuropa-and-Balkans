@@ -32,3 +32,5 @@ v.1.14: Updated Poland-Lithuania's unique.
 v.1.15: Updated Teutonic Order's unique.
 
 v.1.16: Updated the Imperial Knight, Teutonic Knight and Royal Guard sprites.
+
+v.1.17: Updated Teutonic Order's unique.
